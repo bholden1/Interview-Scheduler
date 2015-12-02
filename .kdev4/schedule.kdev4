@@ -25,9 +25,12 @@ Arguments=
 Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x10\x00s\x00c\x00h\x00e\x00d\x00u\x00l\x00e\x00\x00\x00\x10\x00s\x00c\x00h\x00e\x00d\x00u\x00l\x00e)
 Dependency Action=Build
 EnvironmentGroup=default
-Executable=file:///home/ben/projects/schedule/
+Executable=file:///home/ben/projects/Interview-Scheduler/
 External Terminal=konsole --noclose --workdir %workdir -e %exe
 Project Target=schedule,schedule
 Use External Terminal=false
 Working Directory=
 isExecutable=false
+
+[Project]
+VersionControlSupport=kdevgit
