@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/schedule.dir/schedule.cpp.o CMakeFiles/schedule.dir/main.cpp.o  -o schedule -rdynamic -lQtCore -lQtGui 
